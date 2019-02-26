@@ -1,0 +1,17 @@
+{
+    "name": "web-extension-pack",
+    "displayName": "Web Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "LeoJhonSong",
+    "repository": "https://github.com/LeoJhonSong/Web-Extension-Pack",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
