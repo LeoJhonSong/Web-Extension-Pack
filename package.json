@@ -2,7 +2,7 @@
     "name": "web-extension-pack",
     "displayName": "Web Extension Pack",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "LeoJhonSong",
     "repository": "https://github.com/LeoJhonSong/Web-Extension-Pack",
     "engines": {
@@ -11,7 +11,17 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "extensionPack": [
+        "auchenberg.vscode-browser-preview",
+        "techer.open-in-browser",
+        "mkloubert.vscode-remote-workspace",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "batisteo.vscode-django",
+        "naumovs.color-highlight",
+        "anseki.vscode-color",
+        "jock.svg",
+        "henoc.svgeditor",
+        "mechatroner.rainbow-csv"
     ]
 }
