@@ -11,8 +11,13 @@
 - Add logo.
 - Add description of the extensions, for example shields.
 
+## [0.2.0] - 2019-03-09
 
-## [0.0.3] - 2019-02-28
+### Added
+
+- Add `language-stylus` and `HTML CSS Support` to the pack
+
+## [0.1.0] - 2019-02-28
 
 ### Added
 

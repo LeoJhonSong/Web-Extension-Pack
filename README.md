@@ -31,13 +31,18 @@ tricks:
 - [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) A real browser preview inside your
   editor that you can debug
 - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) open various type of files with a single click.
-- [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace) allow editing remote workspace just
+- [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
+  allow editing remote workspace just
   like local ones.
-- HTML
+- HTML/CSS
   - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+  - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - Javascript
   - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- Stylus
+  - [language-stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
+    Stylus language support.
 - [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
 - Color
   - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
