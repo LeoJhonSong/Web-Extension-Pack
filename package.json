@@ -4,6 +4,7 @@
     "description": "Collection of extensions related to Web developing",
     "version": "0.2.0",
     "publisher": "LeoJhonSong",
+    "icon": "web-logo.png",
     "repository": "https://github.com/LeoJhonSong/Web-Extension-Pack",
     "engines": {
         "vscode": "^1.31.0"
