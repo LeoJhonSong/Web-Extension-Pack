@@ -8,8 +8,11 @@
 
 ### Added
 
-- Add logo.
 - Add description of the extensions, for example shields.
+
+## [0.3.0] - 2019-03-11
+
+### Add logo
 
 ## [0.2.0] - 2019-03-09
 
