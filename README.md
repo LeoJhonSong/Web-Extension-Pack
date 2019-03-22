@@ -43,7 +43,7 @@ tricks:
 - Stylus
   - [language-stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
     Stylus language support.
-- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+- [Django Snippets](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) provides common snippets
 - Color
   - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
   - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
