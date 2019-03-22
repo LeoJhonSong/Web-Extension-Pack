@@ -14,6 +14,7 @@ None.
   [Django Snippets](https://marketplace.visualstudio.com/items?itemName=bibhasdn.django-snippets)
   to pack as substitution of
   [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+- Add [Fold Level](https://marketplace.visualstudio.com/items?itemName=vikyd.vscode-fold-level)
 
 ### Removed
 

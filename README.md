@@ -34,6 +34,10 @@ tricks:
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
   allow editing remote workspace just
   like local ones.
+- [Fold Level](https://marketplace.visualstudio.com/items?itemName=vikyd.vscode-fold-level)
+  provides shortcuts to fold code
+
+  ⚠️ you have to do the keybindings by yourself
 - HTML/CSS
   - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
