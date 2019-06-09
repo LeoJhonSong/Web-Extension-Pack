@@ -6,6 +6,12 @@
 
 None.
 
+## [1.1.0] - 2019-06-10
+
+### Removed
+
+- Remove [Fold Level](https://marketplace.visualstudio.com/items?itemName=vikyd.vscode-fold-level)
+
 ## [1.0.0] - 2019-03-22
 
 ### Added
