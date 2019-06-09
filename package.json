@@ -2,7 +2,7 @@
     "name": "web-extension-pack",
     "displayName": "Web Extension Pack",
     "description": "Collection of extensions related to Web developing",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "LeoJhonSong",
     "icon": "web-logo.png",
     "repository": "https://github.com/LeoJhonSong/Web-Extension-Pack",
