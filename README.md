@@ -5,9 +5,9 @@ would be glad if you are interested in this pack and just give a try! 👍
 
 ❗️❗️❗️ before installation I suggest you read lines with ⚠️ tags first, where some requirements are mentioned.
 
-1. [My tricks](#my-tricks)
-2. [This pack includes](#this-pack-includes)
-3. [Contribute](#contribute)
+1. [My tricks](#My-tricks)
+2. [This pack includes](#This-pack-includes)
+3. [Contribute](#Contribute)
 
 ## My tricks
 
@@ -30,7 +30,7 @@ tricks:
 
 - [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) A real browser preview inside your
   editor that you can debug
-- [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) open various type of files with a single click.
+- [open-in-browser](https://marketplace.visualstudio.com/items?itemName=coderfee.open-html-in-browser) open html file in browser with a single click.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
   allow editing remote workspace just
   like local ones.
@@ -45,7 +45,7 @@ tricks:
 - Stylus
   - [language-stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
     Stylus language support.
-- [Django Snippets](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) provides common snippets
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) provides common snippets
 - Color
   - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
   - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)

@@ -2,9 +2,13 @@
 
 # Changelog
 
-## [Unreleased]
 
-None.
+## [1.3.0] - 2019-10-11
+
+### Changed
+
+- Change the open in browser extension since previous one is not robust
+- Change django extension since new one even give language support
 
 ## [1.1.0] - 2019-06-10
 
