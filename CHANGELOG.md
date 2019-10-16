@@ -3,6 +3,12 @@
 # Changelog
 
 
+## [1.4.0] - 2019-10-16
+
+### Added
+
+- Add Beautify to format django-html
+
 ## [1.3.0] - 2019-10-11
 
 ### Changed

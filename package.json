@@ -2,7 +2,7 @@
     "name": "web-extension-pack",
     "displayName": "Web Extension Pack",
     "description": "Collection of extensions related to Web developing",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "publisher": "LeoJhonSong",
     "icon": "web-logo.png",
     "repository": "https://github.com/LeoJhonSong/Web-Extension-Pack",
@@ -14,6 +14,7 @@
     ],
     "extensionPack": [
         "auchenberg.vscode-browser-preview",
+        "hookyqr.beautify",
         "coderfee.open-html-in-browser",
         "mkloubert.vscode-remote-workspace",
         "formulahendry.auto-close-tag",

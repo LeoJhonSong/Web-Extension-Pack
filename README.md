@@ -31,6 +31,7 @@ tricks:
 - [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) A real browser preview inside your
   editor that you can debug
 - [open-in-browser](https://marketplace.visualstudio.com/items?itemName=coderfee.open-html-in-browser) open html file in browser with a single click.
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 - [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
   allow editing remote workspace just
   like local ones.
@@ -45,7 +46,7 @@ tricks:
 - Stylus
   - [language-stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
     Stylus language support.
-- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) provides common snippets
+- [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) provides common snippets and django template language support
 - Color
   - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
   - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
